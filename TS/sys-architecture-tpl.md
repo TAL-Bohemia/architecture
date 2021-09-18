@@ -17,7 +17,7 @@
 
 > 列出所有的技术决策及连接
 
-> 例如：消息队列组件选用Kafka 决策文档：http://wiki.qianxin-inc.cn
+> 例如：消息队列组件选用Kafka 决策文档
 
 ## 3. 关键用例  (用例视图 Use Case View)  
 
